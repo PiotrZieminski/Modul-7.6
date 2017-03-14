@@ -1,7 +1,7 @@
 {
-  "name": "kodilla-grunt-example",
+  "name": "kodilla-gun-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example grun project",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "kodilla-test"
@@ -14,5 +14,8 @@
     "grunt"
   ],
   "author": "Piotr Zieminski",
-  "license": "BSD"
+  "license": "BSD",
+  "devDependencies": {
+    "grun": "~0.2.0"
+  }
 }
