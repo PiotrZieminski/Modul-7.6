@@ -1,0 +1,6 @@
+/node_modules
+
+$ cat .gitignore
+style.css
+style.map.css
+tekst.txt
