@@ -2,5 +2,5 @@
 
 $ cat .gitignore
 style_inne.css
-style_inne.map.css
+style_inne.css.map
 tekst.txt
