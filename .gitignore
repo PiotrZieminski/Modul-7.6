@@ -1,6 +1,6 @@
 /node_modules
 
 $ cat .gitignore
-style.css
-style.map.css
+style_inne.css
+style_inne.map.css
 tekst.txt
