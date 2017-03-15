@@ -12,11 +12,11 @@ module.exports = function(grunt) {
                 }
             }
         },
-        
+
         watch: {
             scripts: {
-                files: ['sass/*.sass'],
-                tasks: ['Modul6Sass/Style_inne.css': 'Modul6Sass/Style_inne.sass'],
+                files: ['Modul6Sass/*.sass'],
+                saas: ['Modul6Sass/Style_inne.css': 'Modul6Sass/Style_inne.sass'],
                 options: {
                     spawn: false,
                 },
