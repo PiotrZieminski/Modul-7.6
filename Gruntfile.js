@@ -13,10 +13,10 @@ module.exports = function(grunt) {
             }
         },
 
-        watch: {
+        atch: {
             scripts: {
-                files: ['Modul6Sass/*.sass'],
-                saas: ['Modul6Sass/Style_inne.css': 'Modul6Sass/Style_inne.sass'],
+                files: ['Modul6sass/*.sass'],
+                tasks: ['sass'],
                 options: {
                     spawn: false,
                 },
