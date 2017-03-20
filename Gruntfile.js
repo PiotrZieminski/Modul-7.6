@@ -13,7 +13,7 @@ module.exports = function(grunt) {
             }
         },
 
-        atch: {
+        watch: {
             scripts: {
                 files: ['Modul6sass/*.sass'],
                 tasks: ['sass'],
